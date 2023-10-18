@@ -1,0 +1,89 @@
+[
+    {
+        "title": "Flowers",
+        "artist": "Miley Cyrus",
+        "year": 2023,
+        "genres": [
+            "Pop",
+            "Indie"
+        ]
+    },
+    {
+        "title": "A&W",
+        "artist": "Lana Del Rey",
+        "year": 2023,
+        "genres": [
+            "Pop",
+            "Indie"
+        ]
+    },
+    {
+        "title": "Cupid",
+        "artist": "FIFTY FIFTY",
+        "year": 2023,
+        "genres": [
+            "K-pop",
+            "Disco"
+        ]
+    },
+    {
+        "title": "Dogtooth",
+        "artist": "Tyler, the Creator",
+        "year": 2023,
+        "genres": [
+            "Rap",
+            "Hip-Hop",
+            "Trap"
+        ]
+    },
+    {
+        "title": "Nonsense",
+        "artist": "Sabrina Carpenter",
+        "year": 2023,
+        "genres": [
+            "Pop"
+        ]
+    },
+    {
+        "title": "Fast Car",
+        "artist": "Luke Combs",
+        "year": 2023,
+        "genres": [
+            "Country"
+        ]
+    },
+    {
+        "title": "Where She Goes",
+        "artist": "Bad Bunny",
+        "year": 2023,
+        "genres": [
+            "EDM"
+        ]
+    },
+    {
+        "title": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "year": 2023,
+        "genres": [
+            "pop"
+        ]
+    },
+    {
+        "title": "Dance The Night",
+        "artist": "Dua Lipa",
+        "year": 2023,
+        "genres": [
+            "Pop",
+            "Disco"
+        ]
+    },
+    {
+        "title": "First Class",
+        "artist": "Jack Harlow",
+        "year": 2022,
+        "genres": [
+            "R&B",
+            "Hip-Hop"
+        ]
+    }
+]
